@@ -2,6 +2,12 @@
 
 Web Graph for US interstate system with SolidJS
 
+## Thinking
+
+Does it make sense to use city as node for all main interstate road, and how to define which city to use.
+
+Or I can start with my trip (ATL - PDX) route planning
+
 ## Dataset
 [A List of Highways and Roads GIS Datasets](https://gisgeography.com/highways-roads-gis-data/)
 
