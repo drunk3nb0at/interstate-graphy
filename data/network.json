@@ -51,7 +51,7 @@
 		{
 			"id": 13,
 			"name": "Spokane"
-		},
+		}
 	],
 	"links": [
 		{
@@ -101,6 +101,10 @@
 		{
 			"source": 12,
 			"target": 13
+		},
+		{
+			"source": 13,
+			"target": 9
 		}
 	]
 }
