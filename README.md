@@ -1,6 +1,10 @@
 # interstate-graphy
 
-Web Graph for US interstate system with SolidJS
+Web Graph for US interstate system with SolidJS, starting from my diagonally crossed country move.
+
+The challenge is you will spend way more than the estimate time on road, and you actually not wanna rest or lodge in big cities.
+
+[Google Maps Routes](https://www.google.com/maps/dir/Georgia+Institute+of+Technology,+Atlanta,+GA+30332/OMSI,+1945+SE+Water+Ave,+Portland,+OR+97214/@36.9995357,-90.2075559,855636m/data=!3m2!1e3!5s0x54950a72efa74aab:0x4a498953338b7c0a!4m14!4m13!1m5!1m1!1s0x88f5048aebc34fe3:0xb52ad03e3ad8c50f!2m2!1d-84.3979638!2d33.7779791!1m5!1m1!1s0x54950a72e8b112d1:0xd074694827faf84c!2m2!1d-122.6660355!2d45.5083931!3e0?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D)
 
 ## Thinking
 

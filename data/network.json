@@ -1,0 +1,106 @@
+{
+	"nodes": [
+		{
+			"id": 1,
+			"name": "Atlanta"
+		},
+		{
+			"id": 2,
+			"name": "Nashville"
+		},
+		{
+			"id": 3,
+			"name": "Kansas City"
+		},
+		{
+			"id": 4,
+			"name": "St. Louis"
+		},
+		{
+			"id": 5,
+			"name": "Lincoln"
+		},
+		{
+			"id": 6,
+			"name": "Cheyenne"
+		},
+		{
+			"id": 7,
+			"name": "Salt Lake City"
+		},
+		{
+			"id": 8,
+			"name": "Boise"
+		},
+		{
+			"id": 9,
+			"name": "Portland"
+		},
+		{
+			"id": 10,
+			"name": "Omaha"
+		},
+		{
+			"id": 11,
+			"name": "Sioux Falls"
+		},
+		{
+			"id": 12,
+			"name": "Billings"
+		},
+		{
+			"id": 13,
+			"name": "Spokane"
+		},
+	],
+	"links": [
+		{
+			"source": 1,
+			"target": 2
+		},
+		{
+			"source": 2,
+			"target": 3
+		},
+		{
+			"source": 3,
+			"target": 4
+		},
+		{
+			"source": 4,
+			"target": 5
+		},
+		{
+			"source": 5,
+			"target": 6
+		},
+		{
+			"source": 6,
+			"target": 7
+		},
+		{
+			"source": 7,
+			"target": 8
+		},
+		{
+			"source": 8,
+			"target": 9
+		},
+		{
+			"source": 3,
+			"target": 10
+		},
+		{
+			"source": 10,
+			"target": 11
+		},
+		{
+			"source": 11,
+			"target": 12
+		},
+		{
+			"source": 12,
+			"target": 13
+		}
+	]
+}
