@@ -51,6 +51,30 @@
 		{
 			"id": 13,
 			"name": "Spokane"
+		},
+		{
+			"id": 14,
+			"name": "Birmingham"
+		},
+		{
+			"id": 15,
+			"name": "Memphis"
+		},
+		{
+			"id": 16,
+			"name": "Little Rock"
+		},
+		{
+			"id": 16,
+			"name": "Little Rock"
+		},
+		{
+			"id": 17,
+			"name": "Oklahoma City"
+		},
+		{
+			"id": 18,
+			"name": "Albuquerque"
 		}
 	],
 	"links": [
@@ -105,6 +129,30 @@
 		{
 			"source": 13,
 			"target": 9
+		},
+		{
+			"source": 1,
+			"target": 14
+		},
+		{
+			"source": 14,
+			"target": 15
+		},
+		{
+			"source": 15,
+			"target": 16
+		},
+		{
+			"source": 16,
+			"target": 17
+		},
+		{
+			"source": 17,
+			"target": 18
+		},
+		{
+			"source": 18,
+			"target": 7
 		}
 	]
 }
