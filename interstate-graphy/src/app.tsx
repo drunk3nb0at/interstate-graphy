@@ -6,6 +6,7 @@ const App: Component<{ children: Element }> = (props) => {
 
   return (
     <>
+\
       <nav class="bg-gray-200 text-gray-900 px-4">
         <ul class="flex items-center">
           <li class="py-2 px-4">
